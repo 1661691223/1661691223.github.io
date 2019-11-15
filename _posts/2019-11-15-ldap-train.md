@@ -6,7 +6,7 @@ description: 内部ldap实践
 keywords: ldap
 ---
 
-# 安装OPEN-LDAP
+## 安装OPEN-LDAP
 
 ## yum安装（首先需要epel源）
 
