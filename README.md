@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://1661691223.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/hme.png)
+![screenshot home](https://1661691223.github.io/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
