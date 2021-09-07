@@ -5,7 +5,7 @@ baseurl:
 url: https://1661691223.github.io
 date_format: "ordinal"
 title: rui123672
-subtitle: "程序码"
+subtitle: "程序"
 description: "rui123672的个人博客"
 keywords: rui123782, Du Rui, shell
 timezone: Asia/Shanghai
@@ -16,10 +16,10 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: rui123672
-organization: ZStack
+organization: billjc
 organization_url: http://zstack.io
 github_username: 1661691223
-location: Shanghai, China
+location: HangZhou, China
 email: rui123672@gmail.com
 
 # ---------------- #
